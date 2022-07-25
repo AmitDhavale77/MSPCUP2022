@@ -9,3 +9,4 @@ https://openslr.org/83
 Indian Datasets: 
 https://www.twine.net/blog/top-indian-language-datasets/
 As the size of model is more than 25MB, refer the following link to download the model
+https://drive.google.com/file/d/1Dbd68hIq47EhCbUUxcBBLX8CWaLdqFiO/view?usp=sharing
