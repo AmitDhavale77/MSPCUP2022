@@ -8,3 +8,4 @@ OpenSLR Dataset for English is an open source dataset with different accents
 https://openslr.org/83
 Indian Datasets: 
 https://www.twine.net/blog/top-indian-language-datasets/
+As the size of model is more than 25MB, refer the following link to download the model
