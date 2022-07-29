@@ -153,12 +153,7 @@ model.compile(
           optimizer='adam',
           loss='categorical_crossentropy',
           metrics=['accuracy'],
-              ) model.compile(
-    optimizer='adam',
-    loss='categorical_crossentropy',
-    metrics=['accuracy'],
-)
-
+              ) 
 es = EarlyStopping(monitor='val_accuracy', mode='max', patience=3, restore_best_weights=True, min_delta=0.001)
 mc = ModelCheckpoint('D:\\Learn_ML\\IEEE_NLP\\IEEE_model_mobilenetv2_final2.hdf5', monitor='val_loss', mode='min',
                      verbose=1, save_best_only=True)
